@@ -1,37 +1,30 @@
-# AlcoiTIC Solucions, S.L.
+# WiFiFix - Projecte Intermodular
 
-Projecte Intermodular · 2n SMX · CIPFP Batoi (Alcoi)
+## Presentació
 
-## Presentació del projecte
+WiFiFix és una empresa fictícia situada a Alcoi, especialitzada en la instal·lació i manteniment de xarxes informàtiques, connexions Wi-Fi i assistència tècnica per a particulars i empreses.
 
-**AlcoiTIC Solucions** és una empresa fictícia de serveis informàtics per a xicotetes i mitjanes empreses (pimes) i autònoms de la comarca de l'Alcoià i el seu entorn. Ofereix manteniment informàtic, administració de xarxes i servidors, còpies de seguretat, projectes d'instal·lació i venda d'equipament amb servei tècnic propi.
-
-Aquest repositori conté la documentació del Projecte Intermodular i s'anirà ampliant sprint a sprint.
+Aquest repositori conté la documentació del Projecte Intermodular de 2n SMX, organitzada per sprints.
 
 ## Integrants de l'equip
 
-| Nom i cognoms | Usuari de GitHub |
-|---|---|
-| Mario Pérez Ruiz | `@oirampr9-del` |
-| Ferran Ferrer Segui| `@pikelweiss-ai` |
+- Ferran Ferrer Seguí
+- Mario Perez Ruiz
 
+## Sprint 1 - Caracterització de l'empresa
 
-## Documentació del Sprint 1
+1. [Definició de l'empresa](docs/sprint-1/01-empresa.md)
+2. [Organització i departaments](docs/sprint-1/02-organitzacio.md)
+3. [Recursos TIC](docs/sprint-1/03-recursos-tic.md)
+4. [Maquinari i programari](docs/sprint-1/04-maquinari-programari.md)
+5. [Objectius de Desenvolupament Sostenible](docs/sprint-1/05-ods.md)
 
-| Document | Contingut |
-|---|---|
-| [01-empresa.md](docs/sprint-1/01-empresa.md) | Definició i caracterització de l'empresa |
-| [02-organitzacio.md](docs/sprint-1/02-organitzacio.md) | Departaments i organigrama |
-| [03-recursos-tic.md](docs/sprint-1/03-recursos-tic.md) | Identificació dels recursos TIC |
-| [04-maquinari-programari.md](docs/sprint-1/04-maquinari-programari.md) | Relació de maquinari i programari |
-| [05-ods.md](docs/sprint-1/05-ods.md) | Contribució als ODS |
+## Objectiu
 
-## Estructura del repositori
+Definir una empresa realista, la seua organització i els recursos tecnològics necessaris per al seu funcionament. Aquesta informació servirà de base per al disseny de la infraestructura informàtica en el Bloc 2.
 
-```
-projecte-intermodular-alcoitic/
-|-- README.md
-|-- docs/
-|   |-- sprint-1/
-|-- img/
-```
+**Curs:** 2n SMX
+
+**Activitat:** PI-Q.1.1 - Caracterització de l'empresa
+
+**Centre:** CIPFP Batoi
