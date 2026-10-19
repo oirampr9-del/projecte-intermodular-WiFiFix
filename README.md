@@ -12,9 +12,9 @@ Aquest repositori conté la documentació del Projecte Intermodular i s'anirà a
 
 | Nom i cognoms | Usuari de GitHub |
 |---|---|
-| Mario Pérez Ruiz | `@usuari` |
-| _Nom del company/a 2_ | `@usuari` |
-| _Nom del company/a 3_ | `@usuari` |
+| Mario Pérez Ruiz | `@oirampr9-del` |
+| Ferran Ferrer Segui| `@pikelweiss-ai` |
+
 
 ## Documentació del Sprint 1
 
