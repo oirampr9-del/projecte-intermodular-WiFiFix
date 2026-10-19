@@ -1,19 +1,41 @@
-# 5. Contribució als ODS
+# 05 - Contribució als ODS
 
-## ODS 12. Producció i consum responsables
+## 1. Introducció
 
-**Relació amb l'activitat**: AlcoiTIC Solucions ven, repara i renova equipament informàtic. La reparació i l'ampliació d'equips allarguen la seua vida útil i redueixen els residus electrònics.
+WiFiFix és una empresa compromesa amb la sostenibilitat i el desenvolupament tecnològic responsable.
 
-**Mesura concreta**: oferir als clients un servei de reacondicionament i ampliació (més memòria o disc SSD) abans de proposar la compra d'equips nous, i gestionar la recollida i el reciclatge dels residus d'aparells elèctrics i electrònics (RAEE) amb un gestor autoritzat, amb un certificat per al client.
+La seua activitat es relaciona principalment amb dos Objectius de Desenvolupament Sostenible (ODS) de l'Agenda 2030 de les Nacions Unides.
 
-## ODS 9. Indústria, innovació i infraestructures
+## 2. ODS 9 - Indústria, innovació i infraestructura
 
-**Relació amb l'activitat**: l'empresa ajuda les pimes de la comarca a digitalitzar-se i a disposar d'infraestructures TIC fiables i segures, la qual cosa millora la seua competitivitat.
+Aquest objectiu pretén promoure infraestructures resistents, la industrialització sostenible i la innovació.
 
-**Mesura concreta**: oferir un paquet de digitalització per a pimes (xarxa, còpies de seguretat i seguretat bàsica) amb una auditoria inicial gratuïta i un pla de millora adaptat a cada empresa.
+### Relació amb WiFiFix
 
-## ODS 8. Treball decent i creixement econòmic
+WiFiFix contribueix a millorar les infraestructures digitals de les empreses mitjançant la instal·lació de xarxes informàtiques segures, estables i eficients.
 
-**Relació amb l'activitat**: l'empresa genera ocupació local qualificada i contribueix al creixement econòmic de la comarca.
+Una bona connexió permet que les empreses utilitzen ferramentes digitals i milloren la seua productivitat.
 
-**Mesura concreta**: establir un pla de formació contínua per a la plantilla, i oferir pràctiques remunerades a alumnat de cicles formatius com el de SMX.
+### Mesura concreta
+
+WiFiFix oferirà assessorament a les petites empreses per modernitzar les seues xarxes informàtiques i facilitar la digitalització dels seus negocis.
+
+## 3. ODS 12 - Producció i consum responsables
+
+Aquest objectiu fomenta l'ús eficient dels recursos i la reducció dels residus.
+
+### Relació amb WiFiFix
+
+L'empresa ofereix serveis de reparació i manteniment d'ordinadors, contribuint a allargar la vida útil dels equips informàtics.
+
+D'aquesta manera es redueix la necessitat de comprar dispositius nous i es disminueix la generació de residus electrònics.
+
+### Mesura concreta
+
+WiFiFix prioritzarà la reparació dels equips sempre que siga viable i facilitarà el reciclatge dels components electrònics a través de gestors autoritzats.
+
+## 4. Conclusió
+
+WiFiFix contribueix al desenvolupament sostenible millorant les infraestructures tecnològiques i promovent el consum responsable.
+
+L'empresa pretén combinar la qualitat del servei amb el respecte pel medi ambient.
