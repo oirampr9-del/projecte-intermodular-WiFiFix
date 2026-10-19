@@ -28,3 +28,13 @@ Definir una empresa realista, la seua organització i els recursos tecnològics 
 **Activitat:** PI-Q.1.1 - Caracterització de l'empresa
 
 **Centre:** CIPFP Batoi
+
+## Estructura del repositori
+
+```
+projecte-intermodular-alcoitic/
+|-- README.md
+|-- docs/
+|   |-- sprint-1/
+|-- img/
+```
