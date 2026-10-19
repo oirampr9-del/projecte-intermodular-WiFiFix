@@ -1,32 +1,116 @@
-# 2. Departaments i estructura organitzativa
+# 01 - Definició i caracterització de l'empresa
 
-AlcoiTIC Solucions té una estructura senzilla i funcional de **12 treballadors** repartits en cinc departaments.
+## 1. Nom i ubicació
 
-## 2.1 Departaments, funcions i personal
+**Nom comercial:** WiFiFix
 
-| Departament | Nre. treballadors | Funcions i responsabilitats |
-|---|---|---|
-| **Direcció i Administració** | 2 | Direcció general, estratègia, finances, comptabilitat, facturació, contractes, recursos humans i gestió administrativa |
-| **Comercial i Atenció al Client** | 2 | Captació i seguiment de clients, elaboració d'ofertes, gestió de contractes de manteniment i atenció telefònica i per correu |
-| **Suport Tècnic** | 4 | Atenció d'incidències (remot i presencial), manteniment preventiu i correctiu, gestió de tiquets i suport a usuaris |
-| **Projectes i Xarxes** | 3 | Disseny i instal·lació de xarxes i servidors, migracions, còpies de seguretat, seguretat i administració de sistemes |
-| **Taller i Logística** | 1 | Reparació i muntatge d'equips, gestió de magatzem, recepció i lliurament de material |
-| **Total** | **12** | |
+**Ubicació:** Alcoi, Alacant (Comunitat Valenciana).
 
-## 2.2 Llocs de treball i funcions principals
+WiFiFix és una empresa fictícia dedicada a proporcionar solucions informàtiques i de connectivitat a particulars, comerços i petites empreses.
 
-| Lloc de treball | Departament | Quantitat | Funcions principals |
-|---|---|---|---|
-| Gerent / Director/a general | Direcció i Administració | 1 | Decisions estratègiques, relació amb proveïdors i finances |
-| Administratiu/va | Direcció i Administració | 1 | Facturació, comptabilitat, tràmits i atenció administrativa |
-| Responsable comercial | Comercial i Atenció al Client | 1 | Estratègia comercial, ofertes i grans clients |
-| Tècnic/a d'atenció al client | Comercial i Atenció al Client | 1 | Recepció de peticions, registre de tiquets i seguiment |
-| Responsable de suport | Suport Tècnic | 1 | Coordinació de l'equip i escalat d'incidències |
-| Tècnic/a de suport | Suport Tècnic | 3 | Resolució d'incidències, visites als clients i manteniment preventiu |
-| Administrador/a de sistemes i xarxes | Projectes i Xarxes | 1 | Servidors, xarxes, seguretat i còpies; responsable tècnic dels projectes |
-| Tècnic/a de xarxes i sistemes | Projectes i Xarxes | 2 | Instal·lació, cablejat, configuració d'equips i servidors |
-| Tècnic/a de taller i magatzem | Taller i Logística | 1 | Reparacions, muntatge d'equips i control de l'estoc |
+## 2. Activitat econòmica
 
-## 2.3 Organigrama
+WiFiFix pertany al sector terciari o sector serveis, concretament a l'àmbit de les tecnologies de la informació i les comunicacions (TIC).
 
-![Organigrama d'AlcoiTIC Solucions](../../img/organigrama.png)
+La seua activitat principal és la instal·lació, configuració, reparació i manteniment de xarxes informàtiques.
+
+## 3. Productes i serveis
+
+Els principals serveis són:
+
+- Instal·lació de xarxes Wi-Fi en habitatges i empreses.
+- Configuració de routers, switches i punts d'accés.
+- Instal·lació de cablejat de xarxa Ethernet.
+- Reparació i manteniment d'ordinadors.
+- Configuració de sistemes operatius i programari.
+- Instal·lació i manteniment de servidors.
+- Assistència tècnica presencial i remota.
+- Assessorament sobre seguretat informàtica.
+
+## 4. Tipus de clients
+
+WiFiFix es dirigeix principalment a:
+
+- Particulars que necessiten millorar la connexió a Internet.
+- Petites i mitjanes empreses.
+- Comerços i establiments d'hostaleria.
+- Oficines i despatxos professionals.
+- Centres educatius i acadèmies.
+
+L'empresa treballa principalment a Alcoi i poblacions pròximes.
+
+## 5. Grandària de l'empresa
+
+WiFiFix és una microempresa amb 6 treballadors.
+
+L'empresa està formada per:
+
+- 1 gerent i responsable comercial.
+- 1 administratiu.
+- 3 tècnics informàtics.
+- 1 administrador de sistemes i xarxes.
+
+Aquesta estructura permet atendre diversos clients i realitzar instal·lacions simultànies.
+
+## 6. Estimació del volum de negoci
+
+S'estima una facturació anual de 300.000 euros.
+
+La previsió es basa en:
+
+| Servei | Quantitat anual | Import mitjà | Total |
+|---|---:|---:|---:|
+| Instal·lacions de xarxa | 80 | 1.800 € | 144.000 € |
+| Contractes de manteniment | 45 contractes mensuals | 200 €/mes | 108.000 € |
+| Reparacions i assistència | 240 | 200 € | 48.000 € |
+| **Total anual** | | | **300.000 €** |
+
+Aquestes quantitats són estimacions fictícies basades en el volum de treball previst.
+
+La facturació permetria afrontar despeses com els salaris, el local, el material, les llicències i els desplaçaments. No representa el benefici net de l'empresa.
+
+## 7. Estratègia empresarial
+
+WiFiFix busca diferenciar-se oferint un servei pròxim, professional i adaptat a cada client.
+
+Les principals estratègies són:
+
+- Atenció personalitzada.
+- Diagnòstic inicial de les necessitats.
+- Pressupostos clars.
+- Assistència ràpida davant d'incidències.
+- Contractes de manteniment preventiu.
+- Utilització de solucions segures i escalables.
+- Seguiment del client després de cada instal·lació.
+
+## 8. Empreses reals de referència
+
+### Cabletic
+
+**Web:** https://cabletic.es/
+
+Empresa especialitzada en xarxes i infraestructures de comunicacions.
+
+Serveis principals:
+- Cablejat estructurat.
+- Instal·lació de xarxes informàtiques.
+- Xarxes Wi-Fi empresarials.
+- Certificació i manteniment de xarxes.
+
+### Domótica Valencia
+
+**Web:** https://domoticavalencia.es/es/redes/
+
+Empresa que ofereix solucions de connectivitat per a habitatges i empreses.
+
+Serveis principals:
+- Instal·lació de xarxes Wi-Fi.
+- Cablejat de xarxa.
+- Configuració de punts d'accés i switches.
+- Estudis de cobertura i seguretat de xarxa.
+
+Aquestes empreses serveixen com a referència per definir els serveis i el funcionament de WiFiFix.
+
+## 9. Conclusió
+
+WiFiFix és una empresa de serveis TIC que pretén millorar les comunicacions i el funcionament dels sistemes informàtics dels seus clients mitjançant solucions adaptades a les seues necessitats.
