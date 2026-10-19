@@ -1,56 +1,65 @@
-# 3. Identificació dels recursos TIC
+# 02 - Organització de l'empresa
 
-> En aquesta fase només s'identifiquen els recursos. El disseny detallat de la infraestructura i el diagrama de xarxa es faran en el Bloc 2.
+## 1. Estructura organitzativa
 
-## 3.1 Ordinadors per departament
+WiFiFix té una estructura organitzativa senzilla, adaptada a una microempresa de 6 treballadors.
 
-| Departament | Treballadors | Equips | Tipus |
-|---|---|---|---|
-| Direcció i Administració | 2 | 2 | Sobretaula |
-| Comercial i Atenció al Client | 2 | 2 | Portàtils (mobilitat per a visites) |
-| Suport Tècnic | 4 | 4 | Portàtils (treball en els clients) |
-| Projectes i Xarxes | 3 | 3 | Estacions de treball potents (virtualització i proves) |
-| Taller i Logística | 1 | 1 | Sobretaula |
-| Taller (banc de proves) | — | 2 | Equips de proves i substitució |
-| Sala de reunions | — | 1 | Mini PC connectat a una pantalla |
-| **Total** | **12** | **15** | |
+L'empresa està dividida en quatre departaments.
 
-## 3.2 Servidors i funcions generals
+## 2. Departaments i funcions
 
-| Servidor | Funció |
-|---|---|
-| Servidor de domini i fitxers | Controlador de domini (usuaris, polítiques), DNS, DHCP i carpetes compartides |
-| Servidor de còpies de seguretat (NAS) | Còpies de seguretat internes i dels clients |
-| Servidor de virtualització | Màquines virtuals per al gestor de tiquets, monitoratge, web interna i laboratori de proves |
+| Departament | Treballadors | Funcions principals |
+|---|---:|---|
+| Direcció i comercial | 1 | Gestió general, clients i vendes |
+| Administració | 1 | Factures, comptabilitat i documentació |
+| Servei tècnic | 3 | Instal·lacions, reparacions i manteniment |
+| Sistemes i xarxes | 1 | Administració de servidors, xarxes i seguretat |
+| **Total** | **6** | |
 
-## 3.3 Dispositius de xarxa
+## 3. Llocs de treball
 
-| Dispositiu | Quantitat | Funció |
-|---|---|---|
-| Router / firewall | 1 | Eixida a Internet, NAT, VPN i seguretat perimetral |
-| Switch gestionable de 24 ports (PoE) | 2 | Connexió dels equips, servidors, punts d'accés i telèfons IP |
-| Punts d'accés Wi-Fi | 3 | Cobertura de l'oficina, el taller i la sala de reunions, amb xarxa de convidats separada |
-| Cablejat estructurat i armari de comunicacions (rack) | 1 | Organització i protecció de la xarxa |
-| SAI | 2 | Protecció elèctrica de servidors i electrònica de xarxa |
+### Gerent i responsable comercial
 
-## 3.4 Impressores i altres perifèrics
+S'encarrega de dirigir l'empresa, gestionar els pressupostos, buscar nous clients i organitzar el treball.
 
-| Recurs | Quantitat | Funció |
-|---|---|---|
-| Impressora multifunció de xarxa | 1 | Impressió, còpia i escàner de l'oficina |
-| Impressora d'etiquetes | 1 | Etiquetatge d'equips i material en el taller |
-| Monitors addicionals | 8 | Doble pantalla en els llocs tècnics |
-| Telèfons IP | 8 | Atenció telefònica i comunicació interna |
-| Càmera i sistema d'audio per a videoconferència | 1 | Reunions amb clients |
-| Discs externs i material de suport | Diversos | Transport de dades i eines dels tècnics |
+### Administratiu
 
-## 3.5 Justificació dels recursos
+Gestiona les factures, els cobraments, els pagaments, les cites amb els clients i la documentació de l'empresa.
 
-- **Portàtils en Suport Tècnic i Comercial**: aquests llocs treballen sovint en les instal·lacions dels clients, per tant la mobilitat és imprescindible.
-- **Estacions potents en Projectes i Xarxes**: han de poder executar màquines virtuals per a proves de configuracions abans de portar-les als clients.
-- **Dos equips de proves en el taller**: permeten substituir temporalment un equip del client o reproduir una avaria.
-- **Tres servidors**: separar fitxers, còpies i virtualització millora la seguretat i facilita la recuperació davant d'una fallada, sense complicar excessivament una empresa de 12 persones.
-- **Dos switches PoE**: alimenten punts d'accés i telèfons IP sense font addicional, i el segon aporta capacitat i redundància.
-- **Tres punts d'accés**: asseguren cobertura en tota l'oficina i el taller i permeten separar la xarxa de convidats i clients.
-- **SAI**: evita pèrdues de dades i danys en servidors per talls de corrent.
-- **Telèfons IP**: l'atenció telefònica és una part essencial del servei i les incidències solen arribar per aquesta via.
+### Tècnics informàtics
+
+Els tres tècnics realitzen instal·lacions de xarxes Wi-Fi, reparacions d'ordinadors i manteniment dels equips dels clients.
+
+### Administrador de sistemes i xarxes
+
+S'encarrega de configurar servidors, gestionar les xarxes internes, realitzar còpies de seguretat i supervisar la seguretat informàtica.
+
+També dona suport als tècnics quan apareixen incidències complexes.
+
+## 4. Organigrama
+
+L'organigrama mostra la jerarquia de WiFiFix.
+
+```mermaid
+flowchart TD
+    A["Gerència i Comercial (1)"]
+    B["Administració (1)"]
+    C["Servei Tècnic (3)"]
+    D["Sistemes i Xarxes (1)"]
+
+    A --> B
+    A --> C
+    A --> D
+```
+
+## 5. Coordinació entre departaments
+
+Els departaments treballen de manera coordinada.
+
+Quan arriba una sol·licitud d'un client, el gerent prepara el pressupost i organitza el servei.
+
+El departament tècnic realitza la instal·lació o reparació. Si es necessita una configuració avançada, intervé el responsable de sistemes i xarxes.
+
+Finalment, administració registra el servei i gestiona la facturació.
+
+Aquesta organització permet oferir una atenció eficient sense necessitat de tindre una estructura excessivament complexa.
