@@ -1,65 +1,84 @@
-# 02 - Organització de l'empresa
+# 03 - Identificació dels recursos TIC
 
-## 1. Estructura organitzativa
+## 1. Introducció
 
-WiFiFix té una estructura organitzativa senzilla, adaptada a una microempresa de 6 treballadors.
+WiFiFix necessita recursos informàtics per gestionar l'empresa, atendre els clients i realitzar els serveis tècnics.
 
-L'empresa està dividida en quatre departaments.
+Els recursos proposats estan adaptats als 6 treballadors i a l'activitat de l'empresa.
 
-## 2. Departaments i funcions
+## 2. Ordinadors
 
-| Departament | Treballadors | Funcions principals |
+| Departament | Ordinadors | Tipus |
 |---|---:|---|
-| Direcció i comercial | 1 | Gestió general, clients i vendes |
-| Administració | 1 | Factures, comptabilitat i documentació |
-| Servei tècnic | 3 | Instal·lacions, reparacions i manteniment |
-| Sistemes i xarxes | 1 | Administració de servidors, xarxes i seguretat |
+| Direcció i comercial | 1 | Sobretaula |
+| Administració | 1 | Sobretaula |
+| Servei tècnic | 3 | Portàtils |
+| Sistemes i xarxes | 1 | Sobretaula |
 | **Total** | **6** | |
 
-## 3. Llocs de treball
+Els ordinadors de sobretaula s'utilitzen per al treball d'oficina.
 
-### Gerent i responsable comercial
+Els tres portàtils permeten als tècnics desplaçar-se a les instal·lacions dels clients i realitzar diagnòstics i configuracions.
 
-S'encarrega de dirigir l'empresa, gestionar els pressupostos, buscar nous clients i organitzar el treball.
+## 3. Servidors i emmagatzematge
 
-### Administratiu
+L'empresa necessita:
 
-Gestiona les factures, els cobraments, els pagaments, les cites amb els clients i la documentació de l'empresa.
+### Servidor principal (1)
 
-### Tècnics informàtics
+Funcions:
+- Gestió centralitzada d'usuaris i permisos.
+- Emmagatzematge de documentació interna.
+- Gestió de serveis de xarxa interns.
 
-Els tres tècnics realitzen instal·lacions de xarxes Wi-Fi, reparacions d'ordinadors i manteniment dels equips dels clients.
+### NAS (1)
 
-### Administrador de sistemes i xarxes
+Funcions:
+- Emmagatzematge de còpies de seguretat.
+- Recuperació de documents.
+- Protecció de la informació de l'empresa.
 
-S'encarrega de configurar servidors, gestionar les xarxes internes, realitzar còpies de seguretat i supervisar la seguretat informàtica.
+El NAS complementa el servidor principal i facilita una gestió ordenada de les còpies de seguretat.
 
-També dona suport als tècnics quan apareixen incidències complexes.
+## 4. Dispositius de xarxa
 
-## 4. Organigrama
+| Dispositiu | Quantitat | Funció |
+|---|---:|---|
+| Router amb firewall | 1 | Connexió a Internet i protecció |
+| Switch | 1 | Connexió dels dispositius de la xarxa local |
+| Punts d'accés Wi-Fi | 2 | Connexió sense fils |
+| Armari rack | 1 | Organització dels equips de xarxa |
+| SAI | 1 | Protecció davant de talls elèctrics |
 
-L'organigrama mostra la jerarquia de WiFiFix.
+Els punts d'accés proporcionaran cobertura a les instal·lacions de l'empresa.
 
-```mermaid
-flowchart TD
-    A["Gerència i Comercial (1)"]
-    B["Administració (1)"]
-    C["Servei Tècnic (3)"]
-    D["Sistemes i Xarxes (1)"]
+El switch permetrà connectar els ordinadors fixos, el servidor i altres dispositius.
 
-    A --> B
-    A --> C
-    A --> D
-```
+## 5. Impressores i perifèrics
 
-## 5. Coordinació entre departaments
+L'empresa necessita:
 
-Els departaments treballen de manera coordinada.
+- 1 impressora multifunció de xarxa.
+- 3 monitors per als ordinadors de sobretaula.
+- 3 teclats i 3 ratolins.
+- 3 equips de ferramentes per als tècnics.
+- 1 comprovador de cablejat de xarxa.
+- 1 telèfon corporatiu per a atenció al client.
 
-Quan arriba una sol·licitud d'un client, el gerent prepara el pressupost i organitza el servei.
+## 6. Justificació dels recursos
 
-El departament tècnic realitza la instal·lació o reparació. Si es necessita una configuració avançada, intervé el responsable de sistemes i xarxes.
+Els sis ordinadors permeten que tots els treballadors disposen d'un equip.
 
-Finalment, administració registra el servei i gestiona la facturació.
+Els portàtils són necessaris perquè els tècnics realitzen treballs fora de l'oficina.
 
-Aquesta organització permet oferir una atenció eficient sense necessitat de tindre una estructura excessivament complexa.
+El servidor centralitza els recursos informàtics de l'empresa, mentre que el NAS permet gestionar les còpies de seguretat.
+
+Els dispositius de xarxa asseguren la connectivitat dels equips i permeten compartir els recursos interns.
+
+La impressora i els perifèrics faciliten les tasques administratives i tècniques.
+
+## 7. Conclusió
+
+Els recursos proposats són suficients per al funcionament inicial de WiFiFix.
+
+En el Bloc 2 es concretaran la infraestructura, les característiques tècniques, el disseny de xarxa i el pressupost.
