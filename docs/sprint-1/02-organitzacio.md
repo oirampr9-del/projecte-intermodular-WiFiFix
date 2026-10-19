@@ -1,116 +1,65 @@
-# 01 - Definició i caracterització de l'empresa
+# 02 - Organització de l'empresa
 
-## 1. Nom i ubicació
+## 1. Estructura organitzativa
 
-**Nom comercial:** WiFiFix
+WiFiFix té una estructura organitzativa senzilla, adaptada a una microempresa de 6 treballadors.
 
-**Ubicació:** Alcoi, Alacant (Comunitat Valenciana).
+L'empresa està dividida en quatre departaments.
 
-WiFiFix és una empresa fictícia dedicada a proporcionar solucions informàtiques i de connectivitat a particulars, comerços i petites empreses.
+## 2. Departaments i funcions
 
-## 2. Activitat econòmica
+| Departament | Treballadors | Funcions principals |
+|---|---:|---|
+| Direcció i comercial | 1 | Gestió general, clients i vendes |
+| Administració | 1 | Factures, comptabilitat i documentació |
+| Servei tècnic | 3 | Instal·lacions, reparacions i manteniment |
+| Sistemes i xarxes | 1 | Administració de servidors, xarxes i seguretat |
+| **Total** | **6** | |
 
-WiFiFix pertany al sector terciari o sector serveis, concretament a l'àmbit de les tecnologies de la informació i les comunicacions (TIC).
+## 3. Llocs de treball
 
-La seua activitat principal és la instal·lació, configuració, reparació i manteniment de xarxes informàtiques.
+### Gerent i responsable comercial
 
-## 3. Productes i serveis
+S'encarrega de dirigir l'empresa, gestionar els pressupostos, buscar nous clients i organitzar el treball.
 
-Els principals serveis són:
+### Administratiu
 
-- Instal·lació de xarxes Wi-Fi en habitatges i empreses.
-- Configuració de routers, switches i punts d'accés.
-- Instal·lació de cablejat de xarxa Ethernet.
-- Reparació i manteniment d'ordinadors.
-- Configuració de sistemes operatius i programari.
-- Instal·lació i manteniment de servidors.
-- Assistència tècnica presencial i remota.
-- Assessorament sobre seguretat informàtica.
+Gestiona les factures, els cobraments, els pagaments, les cites amb els clients i la documentació de l'empresa.
 
-## 4. Tipus de clients
+### Tècnics informàtics
 
-WiFiFix es dirigeix principalment a:
+Els tres tècnics realitzen instal·lacions de xarxes Wi-Fi, reparacions d'ordinadors i manteniment dels equips dels clients.
 
-- Particulars que necessiten millorar la connexió a Internet.
-- Petites i mitjanes empreses.
-- Comerços i establiments d'hostaleria.
-- Oficines i despatxos professionals.
-- Centres educatius i acadèmies.
+### Administrador de sistemes i xarxes
 
-L'empresa treballa principalment a Alcoi i poblacions pròximes.
+S'encarrega de configurar servidors, gestionar les xarxes internes, realitzar còpies de seguretat i supervisar la seguretat informàtica.
 
-## 5. Grandària de l'empresa
+També dona suport als tècnics quan apareixen incidències complexes.
 
-WiFiFix és una microempresa amb 6 treballadors.
+## 4. Organigrama
 
-L'empresa està formada per:
+L'organigrama mostra la jerarquia de WiFiFix.
 
-- 1 gerent i responsable comercial.
-- 1 administratiu.
-- 3 tècnics informàtics.
-- 1 administrador de sistemes i xarxes.
+```mermaid
+flowchart TD
+    A["Gerència i Comercial (1)"]
+    B["Administració (1)"]
+    C["Servei Tècnic (3)"]
+    D["Sistemes i Xarxes (1)"]
 
-Aquesta estructura permet atendre diversos clients i realitzar instal·lacions simultànies.
+    A --> B
+    A --> C
+    A --> D
+```
 
-## 6. Estimació del volum de negoci
+## 5. Coordinació entre departaments
 
-S'estima una facturació anual de 300.000 euros.
+Els departaments treballen de manera coordinada.
 
-La previsió es basa en:
+Quan arriba una sol·licitud d'un client, el gerent prepara el pressupost i organitza el servei.
 
-| Servei | Quantitat anual | Import mitjà | Total |
-|---|---:|---:|---:|
-| Instal·lacions de xarxa | 80 | 1.800 € | 144.000 € |
-| Contractes de manteniment | 45 contractes mensuals | 200 €/mes | 108.000 € |
-| Reparacions i assistència | 240 | 200 € | 48.000 € |
-| **Total anual** | | | **300.000 €** |
+El departament tècnic realitza la instal·lació o reparació. Si es necessita una configuració avançada, intervé el responsable de sistemes i xarxes.
 
-Aquestes quantitats són estimacions fictícies basades en el volum de treball previst.
+Finalment, administració registra el servei i gestiona la facturació.
 
-La facturació permetria afrontar despeses com els salaris, el local, el material, les llicències i els desplaçaments. No representa el benefici net de l'empresa.
-
-## 7. Estratègia empresarial
-
-WiFiFix busca diferenciar-se oferint un servei pròxim, professional i adaptat a cada client.
-
-Les principals estratègies són:
-
-- Atenció personalitzada.
-- Diagnòstic inicial de les necessitats.
-- Pressupostos clars.
-- Assistència ràpida davant d'incidències.
-- Contractes de manteniment preventiu.
-- Utilització de solucions segures i escalables.
-- Seguiment del client després de cada instal·lació.
-
-## 8. Empreses reals de referència
-
-### Cabletic
-
-**Web:** https://cabletic.es/
-
-Empresa especialitzada en xarxes i infraestructures de comunicacions.
-
-Serveis principals:
-- Cablejat estructurat.
-- Instal·lació de xarxes informàtiques.
-- Xarxes Wi-Fi empresarials.
-- Certificació i manteniment de xarxes.
-
-### Domótica Valencia
-
-**Web:** https://domoticavalencia.es/es/redes/
-
-Empresa que ofereix solucions de connectivitat per a habitatges i empreses.
-
-Serveis principals:
-- Instal·lació de xarxes Wi-Fi.
-- Cablejat de xarxa.
-- Configuració de punts d'accés i switches.
-- Estudis de cobertura i seguretat de xarxa.
-
-Aquestes empreses serveixen com a referència per definir els serveis i el funcionament de WiFiFix.
-
-## 9. Conclusió
-
-WiFiFix és una empresa de serveis TIC que pretén millorar les comunicacions i el funcionament dels sistemes informàtics dels seus clients mitjançant solucions adaptades a les seues necessitats.
+Aquesta organització permet oferir una atenció eficient sense necessitat de tindre una estructura excessivament complexa.
