@@ -1,44 +1,57 @@
-# 4. Relació de maquinari i programari
+# 04 - Relació de maquinari i programari
 
-## 4.1 Maquinari
+## 1. Introducció
 
-| Recurs | Departament | Quantitat | Funció |
-|---|---|---|---|
-| Ordinador de sobretaula | Direcció i Administració | 2 | Tasques administratives i de direcció |
-| Ordinador portàtil | Comercial i Atenció al Client | 2 | Gestió comercial i visites als clients |
-| Ordinador portàtil | Suport Tècnic | 4 | Resolució d'incidències i treball en els clients |
-| Estació de treball | Projectes i Xarxes | 3 | Administració de sistemes, virtualització i proves |
-| Ordinador de sobretaula | Taller i Logística | 1 | Gestió del taller i del magatzem |
-| Equips de proves | Taller i Logística | 2 | Banc de proves i equips de substitució |
-| Mini PC amb pantalla | Sala de reunions | 1 | Reunions i presentacions |
-| Servidor de domini i fitxers | Projectes i Xarxes | 1 | Domini, DNS, DHCP i fitxers compartits |
-| Servidor de còpies (NAS) | Projectes i Xarxes | 1 | Còpies de seguretat internes i de clients |
-| Servidor de virtualització | Projectes i Xarxes | 1 | Gestor de tiquets, monitoratge i laboratori |
-| Router / firewall | Projectes i Xarxes | 1 | Connexió a Internet i seguretat perimetral |
-| Switch PoE de 24 ports | Projectes i Xarxes | 2 | Connexió de la xarxa local |
-| Punt d'accés Wi-Fi | Tots | 3 | Accés sense fil |
-| SAI | Projectes i Xarxes | 2 | Protecció elèctrica |
-| Impressora multifunció de xarxa | Direcció i Administració | 1 | Impressió, còpia i escàner |
-| Impressora d'etiquetes | Taller i Logística | 1 | Etiquetatge de material i equips |
-| Telèfon IP | Tots | 8 | Comunicació telefònica |
-| Monitor addicional | Suport Tècnic, Projectes i Xarxes | 8 | Ampliació de l'espai de treball |
+En aquest document es relacionen els principals recursos de maquinari i programari necessaris per al funcionament de WiFiFix.
 
-## 4.2 Programari
+En aquesta fase no s'especifiquen marques, models ni preus.
+
+## 2. Maquinari
 
 | Recurs | Departament | Quantitat | Funció |
-|---|---|---|---|
-| Sistema operatiu de servidor | Projectes i Xarxes | 2 | Domini, fitxers i serveis de xarxa |
-| Sistema operatiu d'escriptori | Tots | 15 | Funcionament dels equips |
-| Programari ofimàtic | Tots | 12 | Documents, fulls de càlcul, presentacions i correu |
-| Programari de gestió i facturació (ERP o similar) | Direcció i Administració | 2 | Comptabilitat, facturació i gestió de clients |
-| CRM | Comercial i Atenció al Client | 2 | Seguiment de clients i ofertes |
-| Gestor de tiquets d'incidències | Suport Tècnic | 1 (multiusuari) | Registre i seguiment d'incidències |
-| Programari de suport i control remot | Suport Tècnic | 4 | Assistència remota als clients |
-| Programari de monitoratge | Projectes i Xarxes | 1 | Control de l'estat d'equips i servidors dels clients |
-| Programari de virtualització | Projectes i Xarxes | 1 | Màquines virtuals i laboratori de proves |
-| Programari de còpies de seguretat | Projectes i Xarxes | 1 | Còpies automàtiques i recuperació |
-| Antivirus / protecció d'endpoint | Tots | 15 | Seguretat dels equips |
-| VPN | Projectes i Xarxes | 1 | Accés remot segur |
-| Eines de col·laboració i videoconferència | Tots | 12 | Comunicació interna i amb clients |
-| Gestor de contrasenyes | Tots | 12 | Custòdia segura de credencials |
-| Programari de disseny de diagrames i documentació | Projectes i Xarxes | 3 | Documentació de xarxes i projectes |
+|---|---|---:|---|
+| Ordinador de sobretaula | Direcció | 1 | Gestió empresarial |
+| Ordinador de sobretaula | Administració | 1 | Gestió documental |
+| Ordinador de sobretaula | Sistemes i xarxes | 1 | Administració de sistemes |
+| Ordinador portàtil | Servei tècnic | 3 | Instal·lacions i reparacions |
+| Servidor principal | Sistemes i xarxes | 1 | Serveis i dades interns |
+| NAS | Sistemes i xarxes | 1 | Còpies de seguretat |
+| Router amb firewall | Sistemes i xarxes | 1 | Accés a Internet i seguretat |
+| Switch | Sistemes i xarxes | 1 | Connexió de la xarxa local |
+| Punt d'accés Wi-Fi | Sistemes i xarxes | 2 | Connexió sense fils |
+| Armari rack | Sistemes i xarxes | 1 | Organització dels equips |
+| SAI | Sistemes i xarxes | 1 | Alimentació de reserva |
+| Impressora multifunció | Administració | 1 | Impressió i escaneig |
+| Monitor | Direcció, Administració i Sistemes | 3 | Visualització |
+| Teclat i ratolí | Direcció, Administració i Sistemes | 3 jocs | Entrada de dades |
+| Equip de ferramentes | Servei tècnic | 3 | Reparacions i instal·lacions |
+| Comprovador de cablejat | Servei tècnic | 1 | Verificació de connexions |
+| Telèfon corporatiu | Administració | 1 | Atenció telefònica |
+
+## 3. Programari
+
+| Recurs | Departament | Quantitat | Funció |
+|---|---|---:|---|
+| Sistema operatiu d'escriptori | Tots | 6 | Funcionament dels ordinadors |
+| Sistema operatiu de servidor | Sistemes i xarxes | 1 | Gestió del servidor |
+| Programari ofimàtic | Direcció i Administració | 2 | Documents i fulls de càlcul |
+| Programari de facturació | Administració | 1 | Factures i cobraments |
+| Programari de gestió de clients (CRM) | Direcció i Administració | 2 usuaris | Seguiment de clients |
+| Programari de suport remot | Servei tècnic | 3 | Assistència remota |
+| Ferramentes de diagnòstic de xarxa | Servei tècnic i Sistemes | 4 | Detecció d'incidències |
+| Programari de còpies de seguretat | Sistemes i xarxes | 1 | Protecció de dades |
+| Programari de seguretat | Tots | 6 | Protecció dels equips |
+| Navegador web | Tots | 6 | Accés a serveis web |
+| Programari de monitoratge | Sistemes i xarxes | 1 | Supervisió dels sistemes |
+
+## 4. Justificació
+
+Els recursos de maquinari permeten realitzar les tasques diàries i oferir assistència tècnica als clients.
+
+El programari facilita la gestió administrativa, la resolució d'incidències, la seguretat dels equips i el manteniment dels sistemes.
+
+La quantitat de recursos s'ha calculat segons les necessitats dels sis treballadors.
+
+## 5. Conclusió
+
+Aquesta relació servirà de base per seleccionar equips, marques, models, llicències i preus durant el Bloc 2 del Projecte Intermodular.
