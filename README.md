@@ -1,42 +1,44 @@
 # WiFiFix - Projecte Intermodular
 
-## Presentació
+Som Ferran i Mario i ací tenim els documents del nostre Projecte Intermodular de 2n SMX
 
-WiFiFix és una empresa fictícia situada a Alcoi, especialitzada en la instal·lació i manteniment de xarxes informàtiques, connexions Wi-Fi i assistència tècnica per a particulars i empreses.
+**WiFiFix** és una empresa fictícia d'Alcoi que es dedicaria a instal·lar xarxes Wi-Fi, reparar ordinadors i ajudar empreses i particulars amb problemes informàtics
 
-Aquest repositori conté la documentació del Projecte Intermodular de 2n SMX, organitzada per sprints.
-
-## Integrants de l'equip
-
-- Ferran Ferrer Seguí
-- Mario Perez Ruiz
-
-## Sprint 1 - Caracterització de l'empresa
-
-1. [Definició de l'empresa](docs/sprint-1/01-empresa.md)
-2. [Organització i departaments](docs/sprint-1/02-organitzacio.md)
-3. [Recursos TIC](docs/sprint-1/03-recursos-tic.md)
-4. [Maquinari i programari](docs/sprint-1/04-maquinari-programari.md)
-5. [Objectius de Desenvolupament Sostenible](docs/sprint-1/05-ods.md)
-
-## Objectiu
-
-Definir una empresa realista, la seua organització i els recursos tecnològics necessaris per al seu funcionament. Aquesta informació servirà de base per al disseny de la infraestructura informàtica en el Bloc 2.
-
-**Curs:** 2n SMX
-
+**Integrants:** Ferran Ferrer Seguí i Mario Perez Ruiz  
+**Centre:** CIPFP Batoi  
+**Curs:** 2n SMX  
 **Activitat:** PI-Q.1.1 - Caracterització de l'empresa
 
-**Centre:** CIPFP Batoi
+## Documents del Sprint 1
 
-## Estructura del repositori
+1. [Definició de l'empresa](docs/sprint-1/01-empresa.md)
+2. [Organització i treballadors](docs/sprint-1/02-organitzacio.md)
+3. [Recursos TIC](docs/sprint-1/03-recursos-tic.md)
+4. [Maquinari i programari](docs/sprint-1/04-maquinari-programari.md)
+5. [ODS](docs/sprint-1/05-ods.md)
 
+En este bloc expliquem què faria l'empresa, com ens organitzaríem i quin material necessitaríem
+
+Els models dels equips, la xarxa detallada i el pressupost els farem en el Bloc 2
+
+## Carpetes
+
+```text
+projecte-intermodular-WiFiFix/
+├── README.md
+├── docs/
+│   └── sprint-1/
+│       ├── 01-empresa.md
+│       ├── 02-organitzacio.md
+│       ├── 03-recursos-tic.md
+│       ├── 04-maquinari-programari.md
+│       └── 05-ods.md
+└── img/
+    └── organigrama-wififix.svg
 ```
-projecte-intermodular-alcoitic/
-|-- README.md
-|-- docs/
-|   |-- sprint-1/
-|-- img/
-```
-# Trello
-https://trello.com/invite/b/6ad5c7a62f2a4b881db69c6d/ATTI4f1a2e4ced6bb9fcf07313bee40158834F7B48A0/projecte-intermodular-alcoitic
+
+## Trello
+
+[Tauler del projecte](https://trello.com/invite/b/6ad5c7a62f2a4b881db69c6d/ATTI4f1a2e4ced6bb9fcf07313bee40158834F7B48A0/projecte-intermodular-alcoitic)
+
+
