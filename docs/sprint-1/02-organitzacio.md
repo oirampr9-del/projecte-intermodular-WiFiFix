@@ -1,65 +1,49 @@
-# 02 - Organització de l'empresa
+# 02 - Organització de WiFiFix
 
-## 1. Estructura organitzativa
+## Com ens organitzem
 
-WiFiFix té una estructura organitzativa senzilla, adaptada a una microempresa de 6 treballadors.
+Com que només som **6 treballadors**, no necessitem una organització complicada
 
-L'empresa està dividida en quatre departaments.
+Hem separat les funcions en quatre àrees, encara que en una empresa menuda algunes persones poden fer més d'una cosa
 
-## 2. Departaments i funcions
+## Departaments
 
-| Departament | Treballadors | Funcions principals |
+| Departament | Treballadors | Què fan |
 |---|---:|---|
-| Direcció i comercial | 1 | Gestió general, clients i vendes |
-| Administració | 1 | Factures, comptabilitat i documentació |
+| Gerència i comercial | 1 | Porta l'empresa, parla amb clients i prepara pressupostos |
+| Administració | 1 | Factures, cobraments, pagaments i documentació |
 | Servei tècnic | 3 | Instal·lacions, reparacions i manteniment |
-| Sistemes i xarxes | 1 | Administració de servidors, xarxes i seguretat |
+| Sistemes i xarxes | 1 | Servidors, configuració de xarxes i seguretat |
 | **Total** | **6** | |
 
-## 3. Llocs de treball
+## Llocs de treball
 
-### Gerent i responsable comercial
+### Gerent i comercial
 
-S'encarrega de dirigir l'empresa, gestionar els pressupostos, buscar nous clients i organitzar el treball.
+S'encarrega de parlar amb els clients, preparar pressupostos, organitzar les feines i portar el negoci
 
 ### Administratiu
 
-Gestiona les factures, els cobraments, els pagaments, les cites amb els clients i la documentació de l'empresa.
+Porta les factures, els pagaments, les cites i la documentació, i també atén telefonades quan fa falta
 
-### Tècnics informàtics
+### Tres tècnics informàtics
 
-Els tres tècnics realitzen instal·lacions de xarxes Wi-Fi, reparacions d'ordinadors i manteniment dels equips dels clients.
+Van a les instal·lacions dels clients, configuren el Wi-Fi, passen cablejat i reparen ordinadors
 
 ### Administrador de sistemes i xarxes
 
-S'encarrega de configurar servidors, gestionar les xarxes internes, realitzar còpies de seguretat i supervisar la seguretat informàtica.
+Configura servidors i xarxes, revisa les còpies de seguretat i ajuda els tècnics si apareix un problema més complicat
 
-També dona suport als tècnics quan apareixen incidències complexes.
+## Organigrama
 
-## 4. Organigrama
+Este és l'organigrama de WiFiFix, amb el gerent dalt i les altres tres àrees per baix
 
-L'organigrama mostra la jerarquia de WiFiFix.
+![Organigrama de WiFiFix](../../img/organigrama-wififix.svg)
 
-```mermaid
-flowchart TD
-    A["Gerència i Comercial (1)"]
-    B["Administració (1)"]
-    C["Servei Tècnic (3)"]
-    D["Sistemes i Xarxes (1)"]
+## Com treballaríem
 
-    A --> B
-    A --> C
-    A --> D
-```
+Per exemple, si una botiga ens telefona perquè el Wi-Fi no arriba al magatzem, el gerent parla amb el client i prepara el pressupost
 
-## 5. Coordinació entre departaments
+Després un tècnic revisa la cobertura i instal·la el que faça falta, si hi ha un problema més complicat també pot ajudar l'administrador de sistemes
 
-Els departaments treballen de manera coordinada.
-
-Quan arriba una sol·licitud d'un client, el gerent prepara el pressupost i organitza el servei.
-
-El departament tècnic realitza la instal·lació o reparació. Si es necessita una configuració avançada, intervé el responsable de sistemes i xarxes.
-
-Finalment, administració registra el servei i gestiona la facturació.
-
-Aquesta organització permet oferir una atenció eficient sense necessitat de tindre una estructura excessivament complexa.
+Quan acaba la faena, administració fa la factura i registra el treball
