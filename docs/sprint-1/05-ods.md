@@ -1,41 +1,33 @@
-# 05 - Contribució als ODS
+# 05 - Els ODS de WiFiFix
 
-## 1. Introducció
+Hem triat dos Objectius de Desenvolupament Sostenible (ODS) que tenen relació amb els serveis de WiFiFix
 
-WiFiFix és una empresa compromesa amb la sostenibilitat i el desenvolupament tecnològic responsable.
+## ODS 9 - Indústria, innovació i infraestructura
 
-La seua activitat es relaciona principalment amb dos Objectius de Desenvolupament Sostenible (ODS) de l'Agenda 2030 de les Nacions Unides.
+Este ODS tracta, entre altres coses, de millorar les infraestructures i fomentar la innovació
 
-## 2. ODS 9 - Indústria, innovació i infraestructura
+### Quina relació té amb WiFiFix
 
-Aquest objectiu pretén promoure infraestructures resistents, la industrialització sostenible i la innovació.
+Nosaltres instal·laríem xarxes Wi-Fi i cablejades en botigues i empreses perquè tinguen una connexió que funcione bé i puguen utilitzar els seus programes sense tants problemes
 
-### Relació amb WiFiFix
+### Què podríem fer
 
-WiFiFix contribueix a millorar les infraestructures digitals de les empreses mitjançant la instal·lació de xarxes informàtiques segures, estables i eficients.
+Ajudar negocis menuts d'Alcoi a millorar les xarxes que ja tenen, en lloc de posar sempre equips nous sense necessitat
 
-Una bona connexió permet que les empreses utilitzen ferramentes digitals i milloren la seua productivitat.
+## ODS 12 - Producció i consum responsables
 
-### Mesura concreta
+Este ODS busca aprofitar millor els recursos i generar menys residus
 
-WiFiFix oferirà assessorament a les petites empreses per modernitzar les seues xarxes informàtiques i facilitar la digitalització dels seus negocis.
+### Quina relació té amb WiFiFix
 
-## 3. ODS 12 - Producció i consum responsables
+Com que també repararíem ordinadors, podríem evitar que alguns clients tiraren equips que encara es poden utilitzar
 
-Aquest objectiu fomenta l'ús eficient dels recursos i la reducció dels residus.
+### Què podríem fer
 
-### Relació amb WiFiFix
+Intentar reparar o ampliar els ordinadors quan siga possible, per exemple canviant un disc dur per un SSD o augmentant la RAM
 
-L'empresa ofereix serveis de reparació i manteniment d'ordinadors, contribuint a allargar la vida útil dels equips informàtics.
+I si alguna peça ja no funciona, portar-la a un gestor autoritzat de residus electrònics
 
-D'aquesta manera es redueix la necessitat de comprar dispositius nous i es disminueix la generació de residus electrònics.
+## En resum
 
-### Mesura concreta
-
-WiFiFix prioritzarà la reparació dels equips sempre que siga viable i facilitarà el reciclatge dels components electrònics a través de gestors autoritzats.
-
-## 4. Conclusió
-
-WiFiFix contribueix al desenvolupament sostenible millorant les infraestructures tecnològiques i promovent el consum responsable.
-
-L'empresa pretén combinar la qualitat del servei amb el respecte pel medi ambient.
+WiFiFix podria ajudar tant a millorar les connexions de les empreses com a allargar la vida dels ordinadors que ja tenen
