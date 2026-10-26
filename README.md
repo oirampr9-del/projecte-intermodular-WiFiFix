@@ -38,3 +38,5 @@ projecte-intermodular-alcoitic/
 |   |-- sprint-1/
 |-- img/
 ```
+# Trello
+https://trello.com/invite/b/6ad5c7a62f2a4b881db69c6d/ATTI4f1a2e4ced6bb9fcf07313bee40158834F7B48A0/projecte-intermodular-alcoitic
