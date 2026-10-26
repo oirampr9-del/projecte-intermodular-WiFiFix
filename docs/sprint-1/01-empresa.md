@@ -1,116 +1,89 @@
-# 01 - Definició i caracterització de l'empresa
+# 01 - La nostra empresa
 
-## 1. Nom i ubicació
+## Nom i ubicació
 
-**Nom comercial:** WiFiFix
+La nostra empresa es diu **WiFiFix** i estaria situada a **Alcoi (Alacant)**
 
-**Ubicació:** Alcoi, Alacant (Comunitat Valenciana).
+És una empresa fictícia dedicada a ajudar particulars, botigues i empreses que tenen problemes amb els seus ordinadors o la connexió a Internet
 
-WiFiFix és una empresa fictícia dedicada a proporcionar solucions informàtiques i de connectivitat a particulars, comerços i petites empreses.
+## A què ens dediquem
 
-## 2. Activitat econòmica
+Estaríem en el **sector serveis**, concretament en el sector TIC (informàtica i comunicacions)
 
-WiFiFix pertany al sector terciari o sector serveis, concretament a l'àmbit de les tecnologies de la informació i les comunicacions (TIC).
+Ens dedicaríem sobretot a instal·lar xarxes, arreglar problemes de connexió i fer manteniment d'equips
 
-La seua activitat principal és la instal·lació, configuració, reparació i manteniment de xarxes informàtiques.
+## Serveis
 
-## 3. Productes i serveis
+- Instal·lar xarxes Wi-Fi en cases, oficines i botigues
+- Configurar routers, switches i punts d'accés
+- Passar cablejat Ethernet
+- Reparar ordinadors i fer-los manteniment
+- Instal·lar sistemes operatius i programes
+- Configurar i mantindre servidors
+- Donar assistència tècnica presencial o remota
+- Revisar problemes bàsics de seguretat informàtica
 
-Els principals serveis són:
+## Clients
 
-- Instal·lació de xarxes Wi-Fi en habitatges i empreses.
-- Configuració de routers, switches i punts d'accés.
-- Instal·lació de cablejat de xarxa Ethernet.
-- Reparació i manteniment d'ordinadors.
-- Configuració de sistemes operatius i programari.
-- Instal·lació i manteniment de servidors.
-- Assistència tècnica presencial i remota.
-- Assessorament sobre seguretat informàtica.
+Els nostres clients serien sobretot
 
-## 4. Tipus de clients
+- Particulars amb mala cobertura Wi-Fi o problemes amb l'ordinador
+- Botigues i comerços
+- Bars i restaurants
+- Oficines i empreses menudes
+- Acadèmies i centres educatius
 
-WiFiFix es dirigeix principalment a:
+Al principi treballaríem per Alcoi i pobles dels voltants, com Cocentaina o Muro
 
-- Particulars que necessiten millorar la connexió a Internet.
-- Petites i mitjanes empreses.
-- Comerços i establiments d'hostaleria.
-- Oficines i despatxos professionals.
-- Centres educatius i acadèmies.
+## Treballadors
 
-L'empresa treballa principalment a Alcoi i poblacions pròximes.
+WiFiFix seria una **microempresa amb 6 treballadors**
 
-## 5. Grandària de l'empresa
+- 1 gerent que també portaria la part comercial
+- 1 administratiu
+- 3 tècnics informàtics
+- 1 administrador de sistemes i xarxes
 
-WiFiFix és una microempresa amb 6 treballadors.
+Així es pot repartir el treball entre l'oficina i els tècnics que van a casa dels clients
 
-L'empresa està formada per:
+## Facturació anual aproximada
 
-- 1 gerent i responsable comercial.
-- 1 administratiu.
-- 3 tècnics informàtics.
-- 1 administrador de sistemes i xarxes.
+Hem calculat una facturació d'uns **300.000 € a l'any**, suposant que l'empresa ja té una quantitat estable de clients
 
-Aquesta estructura permet atendre diversos clients i realitzar instal·lacions simultànies.
-
-## 6. Estimació del volum de negoci
-
-S'estima una facturació anual de 300.000 euros.
-
-La previsió es basa en:
-
-| Servei | Quantitat anual | Import mitjà | Total |
+| Servei | Quantitat prevista | Preu mitjà | Total anual |
 |---|---:|---:|---:|
-| Instal·lacions de xarxa | 80 | 1.800 € | 144.000 € |
-| Contractes de manteniment | 45 contractes mensuals | 200 €/mes | 108.000 € |
-| Reparacions i assistència | 240 | 200 € | 48.000 € |
-| **Total anual** | | | **300.000 €** |
+| Instal·lacions de xarxa | 80 a l'any | 1.800 € | 144.000 € |
+| Contractes de manteniment | 45 contractes actius durant 12 mesos | 200 €/mes | 108.000 € |
+| Reparacions i assistència | 240 a l'any | 200 € | 48.000 € |
+| **Total** | | | **300.000 €** |
 
-Aquestes quantitats són estimacions fictícies basades en el volum de treball previst.
+Les 80 instal·lacions serien unes 6 o 7 al mes i les 240 reparacions serien unes 20 al mes
 
-La facturació permetria afrontar despeses com els salaris, el local, el material, les llicències i els desplaçaments. No representa el benefici net de l'empresa.
+Són càlculs orientatius, no dades reals ni beneficis, perquè encara hauríem de pagar sous, material, local, impostos i altres despeses
 
-## 7. Estratègia empresarial
+## Com tractaríem els clients
 
-WiFiFix busca diferenciar-se oferint un servei pròxim, professional i adaptat a cada client.
+La idea és que la gent ens trie perquè solucionem els problemes sense complicar-los més
 
-Les principals estratègies són:
+- Escoltar què necessita el client abans de començar
+- Revisar el problema i explicar què s'ha de fer
+- Donar un pressupost clar
+- Intentar arreglar les incidències prompte
+- Oferir manteniment a les empreses que el necessiten
+- Comprovar després que tot funcione bé
 
-- Atenció personalitzada.
-- Diagnòstic inicial de les necessitats.
-- Pressupostos clars.
-- Assistència ràpida davant d'incidències.
-- Contractes de manteniment preventiu.
-- Utilització de solucions segures i escalables.
-- Seguiment del client després de cada instal·lació.
-
-## 8. Empreses reals de referència
+## Dos empreses reals del sector
 
 ### Cabletic
 
 **Web:** https://cabletic.es/
 
-Empresa especialitzada en xarxes i infraestructures de comunicacions.
-
-Serveis principals:
-- Cablejat estructurat.
-- Instal·lació de xarxes informàtiques.
-- Xarxes Wi-Fi empresarials.
-- Certificació i manteniment de xarxes.
+És una empresa del sector de xarxes i comunicacions, que ens serveix de referència per les instal·lacions de xarxa, cablejat, xarxes Wi-Fi empresarials i manteniment
 
 ### Domótica Valencia
 
 **Web:** https://domoticavalencia.es/es/redes/
 
-Empresa que ofereix solucions de connectivitat per a habitatges i empreses.
+Treballa amb instal·lacions tecnològiques en habitatges i empreses, com xarxes Wi-Fi, cablejat i punts d'accés
 
-Serveis principals:
-- Instal·lació de xarxes Wi-Fi.
-- Cablejat de xarxa.
-- Configuració de punts d'accés i switches.
-- Estudis de cobertura i seguretat de xarxa.
-
-Aquestes empreses serveixen com a referència per definir els serveis i el funcionament de WiFiFix.
-
-## 9. Conclusió
-
-WiFiFix és una empresa de serveis TIC que pretén millorar les comunicacions i el funcionament dels sistemes informàtics dels seus clients mitjançant solucions adaptades a les seues necessitats.
+Les hem triades perquè fan treballs pareguts als que voldríem oferir a WiFiFix
