@@ -87,3 +87,20 @@ La idea és que la gent ens trie perquè solucionem els problemes sense complica
 Treballa amb instal·lacions tecnològiques en habitatges i empreses, com xarxes Wi-Fi, cablejat i punts d'accés
 
 Les hem triades perquè fan treballs pareguts als que voldríem oferir a WiFiFix
+
+
+## Justificació dels preus i de la previsió
+
+Els imports anteriors són hipòtesis de planificació sense IVA, no tarifes comprovades d'altres empreses. Proposem una tarifa interna de venda de 40 €/hora, que ha de cobrir el temps tècnic i una part dels costos generals.
+
+| Servei | Com es forma el preu mitjà proposat |
+|---|---|
+| Instal·lació | 24 hores de treball tècnic × 40 € + 840 € de material i desplaçament = 1.800 € |
+| Manteniment mensual | Fins a 4 hores × 40 € + 40 € per seguiment i gestió = 200 €. Materials i hores addicionals es pressuposten a banda |
+| Reparació | 3 hores × 40 € + 80 € de peces i desplaçament = 200 € |
+
+La previsió correspon a una empresa consolidada: 45 clients de manteniment ja actius a principi d'any, 80 encàrrecs d'instal·lació i 240 reparacions. Un mateix client pot contractar més d'un servei; per tant, no són 365 clients diferents. Per començar des de zero caldria reduir la previsió i captar gradualment els contractes.
+
+Amb 220 dies laborables, serien unes 1,5 intervencions puntuals al dia entre tot l'equip. La càrrega anual estimada és de 1.920 hores d'instal·lacions + 2.160 hores de manteniment + 720 hores de reparacions = 4.800 hores tècniques. Quatre professionals tècnics amb 1.350 hores útils anuals cadascun aportarien 5.400 hores; quedarien 600 hores de marge. Són supòsits que s'hauran de revisar amb el temps real de desplaçament i incidències.
+
+Si només aconseguim el 70% del volum previst, la facturació baixaria a 210.000 €. Això no garanteix rendibilitat: cal contrastar-la amb sous, cotitzacions, materials, local i altres costos abans de contractar tota la plantilla.
