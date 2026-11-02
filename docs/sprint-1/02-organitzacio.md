@@ -47,3 +47,12 @@ Per exemple, si una botiga ens telefona perquè el Wi-Fi no arriba al magatzem, 
 Després un tècnic revisa la cobertura i instal·la el que faça falta, si hi ha un problema més complicat també pot ajudar l'administrador de sistemes
 
 Quan acaba la faena, administració fa la factura i registra el treball
+
+
+## Per què repartim així les sis persones
+
+El gerent assumix també les vendes perquè no justifiquem un comercial separat en una microempresa. Una persona d'administració centralitza factures, cites i cobraments perquè els tècnics puguen dedicar-se als clients.
+
+Els tres tècnics permeten enviar dos persones a una instal·lació de cablejat mentre la tercera atén reparacions o manteniment. L'administrador de sistemes porta servidors, seguretat i incidències de xarxa complexes, i dona suport a les instal·lacions quan cal. Estes funcions no impliquen contractar una setena persona.
+
+La capacitat prevista i els seus supòsits estan calculats en [01-empresa.md](01-empresa.md). La plantilla de sis correspon a l'escenari consolidat; si la demanda inicial és inferior, caldria escalonar les incorporacions. L'organigrama vigent és el SVG inserit més amunt; el PNG antic no representa esta versió revisada.
