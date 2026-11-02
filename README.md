@@ -42,3 +42,14 @@ projecte-intermodular-WiFiFix/
 [Tauler del projecte](https://trello.com/invite/b/6ad5c7a62f2a4b881db69c6d/ATTI4f1a2e4ced6bb9fcf07313bee40158834F7B48A0/projecte-intermodular-wififix)
 
 
+
+
+## Bloc 2 · Plantejament de solucions TIC (en desenvolupament)
+
+- [01 - Necessitats TIC](docs/sprint-1/bloc-2/01-necessitats.md)
+
+Pendents: alternatives i viabilitat, disseny de xarxa i DMZ, adreçament IP, recursos, pressupost amb fonts i planificació amb Trello. En esta fase es documenta la proposta; encara no s'instal·len els sistemes.
+
+## Revisió del Bloc 1 · 2 de novembre de 2026
+
+Corregit l'organigrama vigent (sis persones i ruta SVG), justificats els preus i la previsió de demanda, explicada la distribució de personal i concretades les ferramentes de diagnòstic en els documents 03 i 04.
