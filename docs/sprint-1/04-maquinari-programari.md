@@ -49,3 +49,18 @@ No tots els treballadors fan el mateix i per això tampoc necessiten el mateix m
 Els tècnics utilitzarien portàtils i ferramentes de diagnòstic, mentre que gerència i administració treballarien més amb factures, documents i clients
 
 El responsable de sistemes s'encarregaria del servidor, la xarxa i les còpies de seguretat
+
+
+## Detall de diagnòstic revisat
+
+Esta taula concreta les ferramentes genèriques anteriors i afegix els tres kits de connexió descrits en [03-recursos-tic.md](03-recursos-tic.md). Les aplicacions no es compten com ordinadors nous.
+
+| Recurs | Departament | Quantitat | Funció |
+|---|---|---:|---|
+| Kit USB-Ethernet i cable de prova | Servei tècnic | 3 | Connexió cablejada i comprovació per substitució |
+| Analitzador Wi-Fi | Servei tècnic | 3 instal·lacions | Senyal, canals i interferències |
+| Wireshark | Servei tècnic i Sistemes | 4 instal·lacions | Anàlisi de trànsit autoritzat |
+| iperf3 | Servei tècnic i Sistemes | 4 instal·lacions | Mesura de rendiment local |
+| Utilitats IP, ping, traceroute/tracert i DNS | Servei tècnic i Sistemes | 4 equips | Comprovacions bàsiques de connectivitat |
+
+Es manté un únic comprovador de cablejat compartit. Les instal·lacions de programari són el detall de la fila de diagnòstic, no llicències que s'hagen de sumar de nou. La selecció concreta de l'analitzador Wi-Fi i qualsevol cost o llicència es validaran en el Bloc 2.
