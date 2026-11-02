@@ -54,3 +54,21 @@ Els sis treballadors tindrien un ordinador cadascun i els tècnics podrien porta
 El servidor serviria per compartir fitxers i controlar els usuaris, el NAS per fer còpies i els equips de xarxa per connectar-ho tot
 
 Pensem que és suficient per començar sense comprar material que no necessitem encara
+
+
+## Diagnòstic específic de xarxes
+
+| Ferramenta | Quantitat i destinataris | Ús previst |
+|---|---|---|
+| Comprovador de cablejat Ethernet | 1 compartit pel servei tècnic | Detectar fils oberts, curtcircuits i errors en l'ordre dels parells. És el mateix comprovador de l'inventari anterior |
+| Adaptador USB-Ethernet i cable de xarxa de prova | 3 kits, un per portàtil tècnic | Connectar-se per cable i descartar problemes de Wi-Fi o del cable del client |
+| Analitzador Wi-Fi | 3 instal·lacions en els portàtils tècnics | Revisar senyal, canals i interferències abans i després de col·locar els punts d'accés |
+| Wireshark | 4 instal·lacions: tres tècnics i sistemes | Analitzar captures de trànsit quan siga necessari i amb autorització del client |
+| iperf3 | 4 instal·lacions: tres tècnics i sistemes | Mesurar el rendiment entre dos equips autoritzats de la xarxa local |
+| ping, traceroute/tracert, ip/ipconfig i nslookup | En els 4 equips tècnics | Comprovar connectivitat, ruta, configuració IP i resolució DNS |
+
+Les aplicacions s'utilitzen en els equips ja comptats; no requerixen ordinadors addicionals. Compartim el comprovador perquè les visites es poden planificar. Si coincidixen diverses instal·lacions, revisarem si cal un segon aparell.
+
+Un comprovador bàsic verifica la continuïtat i el mapa de fils, però no certifica una categoria de cablejat. Si un contracte exigix certificació, pressupostaríem el lloguer d'un certificador o el servei d'una empresa especialitzada.
+
+En cada intervenció registraríem l'estat inicial, la prova realitzada, el canvi i el resultat final. No faríem captures ni exploracions de xarxes alienes sense autorització. Els models, compatibilitats i costos es concretaran en el Bloc 2.
