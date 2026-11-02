@@ -53,3 +53,10 @@ Pendents: alternatives i viabilitat, disseny de xarxa i DMZ, adreçament IP, rec
 ## Revisió del Bloc 1 · 2 de novembre de 2026
 
 Corregit l'organigrama vigent (sis persones i ruta SVG), justificats els preus i la previsió de demanda, explicada la distribució de personal i concretades les ferramentes de diagnòstic en els documents 03 i 04.
+
+
+### Avanç del Bloc 2 · Alternatives preparades
+
+- [02 - Alternatives i viabilitat](docs/sprint-1/bloc-2/02-alternatives-viabilitat.md), proposta en revisió.
+
+Actualització de l’estat anterior: la comparativa d’alternatives ja està redactada. Continuen pendents el disseny de xarxa, adreçament, recursos, pressupost i planificació.
