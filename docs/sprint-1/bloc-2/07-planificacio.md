@@ -34,6 +34,5 @@ Una targeta passa a **En revisió** quan el resultat està redactat. Passa a **F
 
 ![Captura del tauler de Trello de WiFiFix durant la revisió del Bloc 2](https://github.com/user-attachments/assets/77362ac2-5ea7-471f-baa3-52bc61c75ebe)
 
-Abans del lliurament, comprovarem que el professorat tinga accés al tauler i al repositori privat. En Aules es lliuraran l'enllaç del repositori, el SHA del commit final i els noms de **Ferran Ferrer Seguí** i **Mario Perez Ruiz**.
 
 Font de l'organització del sprint: [Guia oficial de Scrum](https://scrumguides.org/scrum-guide.html).
