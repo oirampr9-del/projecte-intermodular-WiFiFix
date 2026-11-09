@@ -30,4 +30,4 @@ Partim de la plantilla revisada de sis persones: gerència i comercial (1), admi
 - [Organització](../02-organitzacio.md): sis persones i funcions.
 - [Recursos TIC](../03-recursos-tic.md) i [inventari](../04-maquinari-programari.md): equips i ferramentes disponibles en la proposta.
 
-No s'han fet entrevistes a una empresa real ni mesures en un local. Les necessitats es deduïxen de l'empresa fictícia i s'hauran de contrastar amb l'espai, el pressupost i les proves de la futura implantació.
+No s'han fet entrevistes a una empresa real ni mesures en un local. Les necessitats es deduïxen de l'empresa fictícia.
