@@ -7,7 +7,7 @@ Som Ferran i Mario i ací tenim els documents del nostre Projecte Intermodular d
 - **Integrants:** Ferran Ferrer Seguí i Mario Perez Ruiz
 - **Centre:** CIPFP Batoi
 - **Curs:** 2n SMX
-- **Activitats:** PI-Q.1.1 - Caracterització de l'empresa i PI-Q.2.1 - Plantejament de solucions TIC
+- **Activitats:** PI-Q.1.1 - Caracterització de l'empresa i PI-Q.1.2 - Plantejament de solucions TIC
 
 ## Sprint 1 · Bloc 1
 
@@ -19,20 +19,24 @@ Som Ferran i Mario i ací tenim els documents del nostre Projecte Intermodular d
 
 En este bloc expliquem què faria l'empresa, com ens organitzaríem i quin material necessitaríem.
 
-## Sprint 1 · Bloc 2 (en desenvolupament)
+## Sprint 1 · Bloc 2
 
 - [01 - Necessitats TIC](docs/sprint-1/bloc-2/01-necessitats.md)
 - [02 - Alternatives i viabilitat](docs/sprint-1/bloc-2/02-alternatives-viabilitat.md)
 - [03 - Disseny de xarxa i DMZ](docs/sprint-1/bloc-2/03-disseny-xarxa.md)
+- [04 - Adreçament IP i noms](docs/sprint-1/bloc-2/04-adrecament-ip.md)
+- [05 - Recursos materials i humans](docs/sprint-1/bloc-2/05-recursos.md)
+- [06 - Pressupost](docs/sprint-1/bloc-2/06-pressupost.md)
+- [07 - Planificació i Trello](docs/sprint-1/bloc-2/07-planificacio.md)
 - [Diagrama de xarxa](img/xarxa-wififix.svg)
 
-Els documents 02 i 03 són propostes per revisar en equip. Pendents: 04 adreçament IP, 05 recursos, 06 pressupost amb fonts i 07 planificació. En esta fase documentem el disseny; encara no instal·lem ni configurem els sistemes.
+El Bloc 2 documenta el disseny de la solució. La implantació i les proves es faran en la SA2.
 
 ## Carpetes
 
 - docs/sprint-1/: documents del Bloc 1
 - docs/sprint-1/bloc-2/: documents del Bloc 2
-- img/: organigrama-wififix.svg (vigent) i xarxa-wififix.svg
+- img/: organigrama-wififix.svg i xarxa-wififix.svg
 
 ## Trello
 
