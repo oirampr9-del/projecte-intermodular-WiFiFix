@@ -58,7 +58,7 @@ La previsió de facturació de 300.000 €/any no equival a tresoreria disponibl
 
 ## Fonts consultades
 
-Consulta: 2 de novembre de 2026. Les fonts sostenen les funcions tècniques; les reserves econòmiques són estimacions pròpies.
+Consulta: 2 de novembre de 2026. Les fonts sostenen les funcions tècniques; les reserves econòmiques són estimacions pròpies
 
 1. [Ubuntu Server: Samba com a servidor de fitxers](https://ubuntu.com/server/docs/how-to/samba/file-server/).
 2. [Microsoft 365 Empresa Básico](https://www.microsoft.com/es-es/microsoft-365/business/microsoft-365-business-basic): referència funcional; tarifa exacta pendent de verificar.
