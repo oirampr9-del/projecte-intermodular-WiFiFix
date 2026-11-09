@@ -49,7 +49,7 @@ Dimensionem la proposta per als sis treballadors del [Bloc 1](../04-maquinari-pr
 | Mario Perez Ruiz | Preparar l'inventari, verificar les compres i compatibilitats, i configurar serveis interns, comptes i còpies |
 | Ferran i Mario | Revisió creuada, proves de restauració i web, documentació i traspàs al responsable de sistemes |
 
-És el repartiment de l'equip acadèmic per a la futura implantació. La plantilla de l'empresa fictícia continua sent de sis treballadors.
+És el repartiment de l'equip acadèmic per a la futura implantació. La plantilla de l'empresa fictícia continua sent de sis treballadors
 
 ## Fonts tècniques
 
