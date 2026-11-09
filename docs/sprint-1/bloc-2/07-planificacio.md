@@ -32,7 +32,10 @@ Una targeta passa a **En revisió** quan el resultat està redactat. Passa a **F
 
 [Tauler privat de WiFiFix en Trello](https://trello.com/b/AtTTwzrK/projecte-intermodular-wififix).
 
-![Captura del tauler de Trello de WiFiFix durant la revisió del Bloc 2](https://github.com/user-attachments/assets/77362ac2-5ea7-471f-baa3-52bc61c75ebe)
+![Tauler de WiFiFix amb totes les targetes del Bloc 2 en Fet](https://github.com/user-attachments/assets/5abd8261-9de7-4cd5-aa96-965d27735f3c)
 
+El disseny i la documentació del Bloc 2 estan completats. Les targetes B2 · 01 a B2 · 09 estan en **Fet** i les dades per al lliurament estan preparades.
+
+Abans d'enviar l'entrega en Aules, comprovarem que el professorat tinga accés al tauler i al repositori privat. En Aules es lliuraran l'enllaç del repositori, el SHA del commit final i els noms de **Ferran Ferrer Seguí** i **Mario Perez Ruiz**.
 
 Font de l'organització del sprint: [Guia oficial de Scrum](https://scrumguides.org/scrum-guide.html).
