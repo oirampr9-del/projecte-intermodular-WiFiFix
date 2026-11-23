@@ -45,3 +45,15 @@ El Bloc 2 documenta el disseny de la solució. La implantació i les proves es f
 ## Revisió del Bloc 1 · 2 de novembre de 2026
 
 Corregit l'organigrama vigent (sis persones i ruta SVG), justificats els preus i la previsió de demanda, explicada la distribució de personal i concretades les ferramentes de diagnòstic en els documents 03 i 04.
+
+## Sprint 2 · Implantació de la infraestructura
+
+- [Sprint 2 · 01 - Pla d'intervenció](docs/sprint-2/01-pla-intervencio.md)
+- [02 · Màquines virtuals](docs/sprint-2/02-maquines-virtuals.md)
+- [03 · LAN, DMZ i adreçament](docs/sprint-2/03-configuracio-xarxa.md)
+- [04 · Servidor de comunicacions](docs/sprint-2/04-servidor-comunicacions.md)
+- [05 · DHCP de la LAN](docs/sprint-2/05-dhcp.md)
+- [06 · Proves de connectivitat](docs/sprint-2/06-proves-connectivitat.md)
+- [07 · Seguiment i incidències](docs/sprint-2/07-seguiment-incidencies.md)
+
+[Tauler de Trello de WiFiFix](https://trello.com/b/AtTTwzrK/projecte-intermodular-wififix)
