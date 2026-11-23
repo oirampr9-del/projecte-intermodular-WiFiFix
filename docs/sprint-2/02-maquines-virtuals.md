@@ -4,8 +4,8 @@ Les cinc VMs s'han creat en VirtualBox 7.2.16 al PC de Ferran amb discos VDI din
 
 | VM | Funció | Sistema previst | RAM | vCPU | Disc | Estat |
 |---|---|---|---:|---:|---:|---|
-| SRV-COM | Encaminament i Kea | Ubuntu Server 24.04.5 LTS | 1 GiB | 1 | 15 GiB | Instal·lant (reintent; vegeu 07) |
-| SRV-LAN | Servidor intern | Windows Server 2025 Standard Evaluation (experiència d'escriptori) | 3 GiB | 2 | 50 GiB | Instal·lant |
+| SRV-COM | Encaminament i Kea | Ubuntu Server 24.04.5 LTS | 2 GiB (temporal) | 1 | 15 GiB | Instal·lant (RAM pujada; vegeu 07) |
+| SRV-LAN | Servidor intern | Windows Server 2025 Standard Evaluation (experiència d'escriptori) | 3 GiB | 2 | 50 GiB | Instal·lat i amb sessió iniciada (vegeu avall) |
 | PC-ADM | Client d'administració | Windows 11 25H2 | 4 GiB | 2 | 64 GiB | ISO muntada, EFI i TPM 2.0 |
 | PT-TEC01 | Client tècnic | Linux Mint 22.3 Cinnamon | 2 GiB | 2 | 25 GiB | ISO muntada |
 | WEB-01 | Servidor de la DMZ | Ubuntu Server 24.04.5 LTS | 1 GiB | 1 | 15 GiB | ISO muntada |
@@ -36,6 +36,12 @@ La pantalla negra posterior a «Loading files…» no era un error de configurac
 
 *Resum de l'assistent abans de copiar fitxers; l'inici de sessió encara no està validat.*
 
+**Resultat verificat a SRV-LAN:** instal·lat Windows Server 2025 Standard Evaluation (experiència d'escriptori), sessió iniciada com a `administrador`. Es reanomena el sistema a `SRV-LAN` (era `WIN-0KVFPQAB8H9`) i se li assigna la IP fixa del pla: `192.168.36.10/24`, passarel·la `192.168.36.1`, DHCP desactivat i una sola targeta a `wififix-lan` (MAC `08-00-27-4A-58-3D`). Sense Active Directory ni domini (Sprint 3).
+
+![SRV-LAN: hostname, whoami i ipconfig després de configurar-la](../../img/sprint-2/srv-lan-hostname-whoami-ipconfig.png)
+
+*SRV-LAN amb nom `SRV-LAN`, usuari `srv-lan\administrador` i IP `192.168.36.10`, després del reinici.*
+
 ### Instal·lació de SRV-COM (23/11/2026)
 
 La ISO d'Ubuntu Server 24.04.5 no estava muntada i s'ha muntat des de `Descargas`. L'instal·lador detecta les tres interfícies (`enp0s3` NAT amb DHCP, `enp0s8` i `enp0s9` en xarxes internes) i es fa servir el disc de 15 GB amb LVM (`/` 10 GB, `/boot` 1,75 GB). Les IP fixes es configuren després de la instal·lació.
@@ -47,3 +53,9 @@ La ISO d'Ubuntu Server 24.04.5 no estava muntada i s'ha muntat des de `Descargas
 ![Particions de SRV-COM](../../img/sprint-2/srv-com-particions-instalador.png)
 
 *Esquema de particions proposat per a SRV-COM.*
+
+Nota de recursos: l'instal·lador d'Ubuntu Server va fallar dues vegades amb només 1 GiB de RAM perquè el nucli va matar `apt-check` per falta de memòria. Per instal·lar-lo, SRV-COM s'ha pujat temporalment a 2 GiB (vegeu 07).
+
+![Registre del nucli amb el procés apt-check mort per OOM](../../img/sprint-2/srv-com-oom-instalador.png)
+
+*Evidència de l'OOM killer a l'instal·lador d'SRV-COM.*
