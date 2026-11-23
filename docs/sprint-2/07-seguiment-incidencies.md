@@ -4,11 +4,14 @@
 
 | Data | Previsió | Treball verificat | Temps lectiu | Pendent |
 |---|---|---|---|---|
-| 23/11/2026 | Preparar amfitrió i començar les VMs | Cinc VMs registrades, set MAC diferents i dues xarxes internes assignades. Arrancada de l'instal·lador de SRV-COM | Pendent de registrar per l'equip | Instal·lació i validació dels SO, configuració, DHCP i proves |
+| 23/11/2026 | Preparar amfitrió i començar les VMs | Cinc VMs registrades, set MAC diferents i dues xarxes internes assignades. Arrancada dels instal·ladors de SRV-COM i SRV-LAN; SRV-LAN instal·lant Server 2025 | Pendent de registrar per l'equip | Instal·lació i validació dels SO, configuració, DHCP i proves |
 
 | Data | Equip o tasca | Problema o desviació | Causa identificada | Intervenció i responsable | Comprovació final | Comunicació al professorat |
 |---|---|---|---|---|---|---|
-| 23/11/2026 | SRV-LAN | ISO pendent | El pla indica Server 2025 i la ISO local identificada correspon a Server 2022 | Mario ha de localitzar el suport acordat o confirmar la versió amb el professor | Pendent | Pendent segons l'impacte en el termini |
+| 23/11/2026 | SRV-LAN | ISO pendent | El pla indica Server 2025 i es va identificar una ISO de Server 2022 | S'ha localitzat `winserv25.iso` (Server 2025 Evaluation) i s'ha muntat a SRV-LAN | ISO de Server 2025 muntada; l'assistent l'accepta | No cal |
+| 23/11/2026 | SRV-LAN | Pantalla negra després de «Loading files…» | No era un error: la ISO d'8 GB tardava a carregar l'assistent | Ferran: es revisa la configuració d'arrencada (correcta) i s'espera la càrrega | L'assistent apareix i la instal·lació avança | No cal |
+| 23/11/2026 | SRV-COM | Instal·lador d'Ubuntu falla a «configuring apt» | Per confirmar; els miralls responien (HTTP 200). Probable error puntual per càrrega de l'amfitrió | Ferran: reinici de l'instal·lador des de zero | Pendent: instal·lació encara en curs | No cal de moment |
+| 23/11/2026 | SRV-COM | ISO no muntada i arrencada per disquet | La VM s'havia creat sense suport d'instal·lació | Ferran: muntar la ISO d'Ubuntu Server 24.04.5 i posar el DVD com a primer dispositiu | L'instal·lador arrenca | No cal |
 
 La LAN i la DMZ de VirtualBox ja estan assignades segons la SA1. Queda pendent verificar les IP dins dels sistemes, el reenviament, les concessions i la connectivitat. Les aportacions efectives de Ferran i Mario i la captura final de Trello es registraran quan es complete el laboratori.
 
