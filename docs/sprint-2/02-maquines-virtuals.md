@@ -4,7 +4,7 @@ Les cinc VMs s'han creat en VirtualBox 7.2.16 al PC de Ferran amb discos VDI din
 
 | VM | Funció | Sistema previst | RAM | vCPU | Disc | Estat |
 |---|---|---|---:|---:|---:|---|
-| SRV-COM | Encaminament i Kea | Ubuntu Server 24.04.5 LTS | 2 GiB (temporal) | 1 | 15 GiB | Instal·lant (RAM pujada; vegeu 07) |
+| SRV-COM | Encaminament i Kea | Ubuntu Server 24.04.5 LTS | 2 GiB (temporal) | 1 | 15 GiB | Instal·lat; arrenca fins al login (sessió pendent de validar) |
 | SRV-LAN | Servidor intern | Windows Server 2025 Standard Evaluation (experiència d'escriptori) | 3 GiB | 2 | 50 GiB | Instal·lat i amb sessió iniciada (vegeu avall) |
 | PC-ADM | Client d'administració | Windows 11 25H2 | 4 GiB | 2 | 64 GiB | ISO muntada, EFI i TPM 2.0 |
 | PT-TEC01 | Client tècnic | Linux Mint 22.3 Cinnamon | 2 GiB | 2 | 25 GiB | ISO muntada |
@@ -59,3 +59,9 @@ Nota de recursos: l'instal·lador d'Ubuntu Server va fallar dues vegades amb nom
 ![Registre del nucli amb el procés apt-check mort per OOM](../../img/sprint-2/srv-com-oom-instalador.png)
 
 *Evidència de l'OOM killer a l'instal·lador d'SRV-COM.*
+
+**Resultat a SRV-COM:** la instal·lació ha acabat sense errors amb 2 GiB. Després d'expulsar la ISO, el sistema arrenca i mostra `srv-com login:`, amb el nom `srv-com`, OpenSSH instal·lat i cap clau SSH autoritzada. Encara falta iniciar sessió i capturar `hostname` i `whoami`, configurar les tres interfícies amb netplan i decidir si es torna a 1 GiB o es deixa en 2 GiB.
+
+![Primera arrencada de SRV-COM amb el prompt de login](../../img/sprint-2/srv-com-primer-arrencada.png)
+
+*SRV-COM arrencat després de la instal·lació; el login encara no s'ha validat.*
